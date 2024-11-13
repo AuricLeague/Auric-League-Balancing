@@ -1,6 +1,6 @@
 {
 	"Name": "",
-	"Version": 1731463605,
+	"Version": 1731525068,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "Killer Picks and Bans will happen, and then afterwards Map bans will happen to determine which map is played.",
 	"Tiers": [
@@ -334,9 +334,11 @@
 				"35"
 			],
 			"BalanceTiers": [
+				0,
 				1
 			],
 			"SurvivorBalanceTiers": [
+				0,
 				1
 			],
 			"AntiFacecampPermitted": false,
@@ -399,9 +401,11 @@
 				"33"
 			],
 			"BalanceTiers": [
+				0,
 				2
 			],
 			"SurvivorBalanceTiers": [
+				0,
 				2
 			],
 			"AntiFacecampPermitted": false,
@@ -466,9 +470,11 @@
 				"46"
 			],
 			"BalanceTiers": [
+				0,
 				5
 			],
 			"SurvivorBalanceTiers": [
+				0,
 				5
 			],
 			"AntiFacecampPermitted": false,
@@ -537,9 +543,11 @@
 				"33"
 			],
 			"BalanceTiers": [
+				0,
 				5
 			],
 			"SurvivorBalanceTiers": [
+				0,
 				5
 			],
 			"AntiFacecampPermitted": false,
@@ -618,9 +626,11 @@
 				"34"
 			],
 			"BalanceTiers": [
+				0,
 				1
 			],
 			"SurvivorBalanceTiers": [
+				0,
 				1
 			],
 			"AntiFacecampPermitted": false,
@@ -682,9 +692,11 @@
 				"34"
 			],
 			"BalanceTiers": [
+				0,
 				2
 			],
 			"SurvivorBalanceTiers": [
+				0,
 				2
 			],
 			"AntiFacecampPermitted": false,
@@ -749,9 +761,11 @@
 				"11"
 			],
 			"BalanceTiers": [
+				0,
 				2
 			],
 			"SurvivorBalanceTiers": [
+				0,
 				2
 			],
 			"AntiFacecampPermitted": false,
@@ -822,9 +836,11 @@
 				"33"
 			],
 			"BalanceTiers": [
+				0,
 				3
 			],
 			"SurvivorBalanceTiers": [
+				0,
 				3
 			],
 			"AntiFacecampPermitted": false,
@@ -895,9 +911,11 @@
 				"33"
 			],
 			"BalanceTiers": [
+				0,
 				2
 			],
 			"SurvivorBalanceTiers": [
+				0,
 				2
 			],
 			"AntiFacecampPermitted": false,
@@ -969,9 +987,11 @@
 				"33"
 			],
 			"BalanceTiers": [
+				0,
 				1
 			],
 			"SurvivorBalanceTiers": [
+				0,
 				1
 			],
 			"AntiFacecampPermitted": false,
@@ -1038,9 +1058,11 @@
 				"35"
 			],
 			"BalanceTiers": [
+				0,
 				1
 			],
 			"SurvivorBalanceTiers": [
+				0,
 				1
 			],
 			"AntiFacecampPermitted": false,
@@ -1105,9 +1127,11 @@
 				"19"
 			],
 			"BalanceTiers": [
+				0,
 				2
 			],
 			"SurvivorBalanceTiers": [
+				0,
 				2
 			],
 			"AntiFacecampPermitted": false,
@@ -1176,6 +1200,7 @@
 				"9"
 			],
 			"BalanceTiers": [
+				0,
 				5
 			],
 			"SurvivorBalanceTiers": [
@@ -1263,9 +1288,11 @@
 				"33"
 			],
 			"BalanceTiers": [
+				0,
 				2
 			],
 			"SurvivorBalanceTiers": [
+				0,
 				2
 			],
 			"AntiFacecampPermitted": false,
@@ -1320,9 +1347,11 @@
 				"30"
 			],
 			"BalanceTiers": [
+				0,
 				4
 			],
 			"SurvivorBalanceTiers": [
+				0,
 				4
 			],
 			"AntiFacecampPermitted": false,
@@ -1389,9 +1418,11 @@
 				"34"
 			],
 			"BalanceTiers": [
+				0,
 				1
 			],
 			"SurvivorBalanceTiers": [
+				0,
 				1
 			],
 			"AntiFacecampPermitted": false,
@@ -1453,9 +1484,11 @@
 				"13"
 			],
 			"BalanceTiers": [
+				0,
 				3
 			],
 			"SurvivorBalanceTiers": [
+				0,
 				3
 			],
 			"AntiFacecampPermitted": false,
@@ -1521,9 +1554,11 @@
 				"14"
 			],
 			"BalanceTiers": [
+				0,
 				4
 			],
 			"SurvivorBalanceTiers": [
+				0,
 				4
 			],
 			"AntiFacecampPermitted": false,
@@ -1589,9 +1624,11 @@
 				"33"
 			],
 			"BalanceTiers": [
+				0,
 				3
 			],
 			"SurvivorBalanceTiers": [
+				0,
 				3
 			],
 			"AntiFacecampPermitted": false,
@@ -1661,9 +1698,11 @@
 				"14"
 			],
 			"BalanceTiers": [
+				0,
 				3
 			],
 			"SurvivorBalanceTiers": [
+				0,
 				3
 			],
 			"AntiFacecampPermitted": false,
@@ -1726,9 +1765,11 @@
 				"5"
 			],
 			"BalanceTiers": [
+				0,
 				5
 			],
 			"SurvivorBalanceTiers": [
+				0,
 				5
 			],
 			"AntiFacecampPermitted": false,
@@ -1799,9 +1840,11 @@
 				"19"
 			],
 			"BalanceTiers": [
+				0,
 				4
 			],
 			"SurvivorBalanceTiers": [
+				0,
 				4
 			],
 			"AntiFacecampPermitted": false,
@@ -1870,9 +1913,11 @@
 				"30"
 			],
 			"BalanceTiers": [
+				0,
 				2
 			],
 			"SurvivorBalanceTiers": [
+				0,
 				2
 			],
 			"AntiFacecampPermitted": false,
@@ -1938,9 +1983,11 @@
 				"33"
 			],
 			"BalanceTiers": [
+				0,
 				2
 			],
 			"SurvivorBalanceTiers": [
+				0,
 				2
 			],
 			"AntiFacecampPermitted": false,
@@ -2006,9 +2053,11 @@
 				"33"
 			],
 			"BalanceTiers": [
+				0,
 				3
 			],
 			"SurvivorBalanceTiers": [
+				0,
 				3
 			],
 			"AntiFacecampPermitted": false,
@@ -2076,9 +2125,11 @@
 				"8"
 			],
 			"BalanceTiers": [
+				0,
 				4
 			],
 			"SurvivorBalanceTiers": [
+				0,
 				4
 			],
 			"AntiFacecampPermitted": false,
@@ -2146,9 +2197,11 @@
 				"35"
 			],
 			"BalanceTiers": [
+				0,
 				2
 			],
 			"SurvivorBalanceTiers": [
+				0,
 				2
 			],
 			"AntiFacecampPermitted": false,
@@ -2221,9 +2274,11 @@
 				"34"
 			],
 			"BalanceTiers": [
+				0,
 				2
 			],
 			"SurvivorBalanceTiers": [
+				0,
 				2
 			],
 			"AntiFacecampPermitted": false,
@@ -2294,9 +2349,11 @@
 				"8"
 			],
 			"BalanceTiers": [
+				0,
 				3
 			],
 			"SurvivorBalanceTiers": [
+				0,
 				3
 			],
 			"AntiFacecampPermitted": false,
@@ -2362,9 +2419,11 @@
 				"34"
 			],
 			"BalanceTiers": [
+				0,
 				3
 			],
 			"SurvivorBalanceTiers": [
+				0,
 				3
 			],
 			"AntiFacecampPermitted": false,
@@ -2427,9 +2486,11 @@
 				"35"
 			],
 			"BalanceTiers": [
+				0,
 				1
 			],
 			"SurvivorBalanceTiers": [
+				0,
 				1
 			],
 			"AntiFacecampPermitted": false,
@@ -2494,9 +2555,11 @@
 				"33"
 			],
 			"BalanceTiers": [
+				0,
 				4
 			],
 			"SurvivorBalanceTiers": [
+				0,
 				4
 			],
 			"AntiFacecampPermitted": false,
@@ -2570,9 +2633,11 @@
 				"9"
 			],
 			"BalanceTiers": [
+				0,
 				4
 			],
 			"SurvivorBalanceTiers": [
+				0,
 				4
 			],
 			"AntiFacecampPermitted": false,
@@ -2638,9 +2703,11 @@
 				"33"
 			],
 			"BalanceTiers": [
+				0,
 				4
 			],
 			"SurvivorBalanceTiers": [
+				0,
 				4
 			],
 			"AntiFacecampPermitted": false,
@@ -2709,9 +2776,11 @@
 				"47"
 			],
 			"BalanceTiers": [
+				0,
 				4
 			],
 			"SurvivorBalanceTiers": [
+				0,
 				4
 			],
 			"AntiFacecampPermitted": false,
@@ -2781,9 +2850,11 @@
 				"33"
 			],
 			"BalanceTiers": [
+				0,
 				3
 			],
 			"SurvivorBalanceTiers": [
+				0,
 				3
 			],
 			"AntiFacecampPermitted": false,
@@ -2852,9 +2923,11 @@
 				"10"
 			],
 			"BalanceTiers": [
+				0,
 				4
 			],
 			"SurvivorBalanceTiers": [
+				0,
 				4
 			],
 			"AntiFacecampPermitted": false,
