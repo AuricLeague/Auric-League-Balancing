@@ -1,6 +1,6 @@
 {
 	"Name": "",
-	"Version": 1734185392,
+	"Version": 1734185788,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "Killer Picks and Bans will happen, and then afterwards Map bans will happen to determine which map is played.",
 	"Tiers": [
@@ -3011,17 +3011,20 @@
 				"33"
 			],
 			"BalanceTiers": [
-				1
+				0,
+				4
 			],
 			"SurvivorBalanceTiers": [
-				1
+				0,
+				4
 			],
 			"AntiFacecampPermitted": false,
-			"KillerIndvPerkBans": [],
-			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [
-				"37"
+			"KillerIndvPerkBans": [
+				"200",
+				"213"
 			],
+			"KillerComboPerkBans": [],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
