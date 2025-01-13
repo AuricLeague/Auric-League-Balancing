@@ -1,6 +1,6 @@
 {
 	"Name": "",
-	"Version": 1736800064,
+	"Version": 1736800358,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "Killer Picks and Bans will happen, and then afterwards Map bans will happen to determine which map is played.",
 	"Tiers": [
@@ -537,8 +537,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5
@@ -1319,13 +1318,21 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0,
+				5
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
