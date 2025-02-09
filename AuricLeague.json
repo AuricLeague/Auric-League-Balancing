@@ -1,6 +1,6 @@
 {
 	"Name": "",
-	"Version": 1738812410,
+	"Version": 1739132026,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "Killer Picks and Bans will happen, and then afterwards Map bans will happen to determine which map is played.",
 	"Tiers": [
@@ -259,6 +259,7 @@
 				"38",
 				"39",
 				"45",
+				"261",
 				"54",
 				"57",
 				"61",
@@ -1239,6 +1240,7 @@
 				"58",
 				"63",
 				"64",
+				"67",
 				"77",
 				"82",
 				"103",
